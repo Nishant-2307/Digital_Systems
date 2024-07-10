@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/nisha/project_7/project_7.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/nisha/project_7/project_7.srcs/sim_1/new/addsub1_tb.v,1706199605,verilog,,,,addsub1_tb,,,,,,,,
+C:/Users/nisha/project_7/project_7.srcs/sim_1/new/fulladder_tb.v,1705755910,verilog,,,,fulladder_tb,,,,,,,,
+C:/Users/nisha/project_7/project_7.srcs/sources_1/new/addsub1.v,1705857656,verilog,,C:/Users/nisha/project_7/project_7.srcs/sources_1/new/fulladder.v,,addsub1,,,,,,,,
+C:/Users/nisha/project_7/project_7.srcs/sources_1/new/fulladder.v,1705858094,verilog,,C:/Users/nisha/project_7/project_7.srcs/sources_1/new/graycode.v,,fulladder,,,,,,,,
+C:/Users/nisha/project_7/project_7.srcs/sources_1/new/graycode.v,1705857599,verilog,,C:/Users/nisha/project_7/project_7.srcs/sim_1/new/addsub1_tb.v,,graycode,,,,,,,,
