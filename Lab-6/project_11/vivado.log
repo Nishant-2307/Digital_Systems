@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jul  9 22:47:59 2024
+# Process ID: 42696
+# Current directory: C:/Users/nisha/project_11
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent33768 C:\Users\nisha\project_11\project_11.xpr
+# Log file: C:/Users/nisha/project_11/vivado.log
+# Journal file: C:/Users/nisha/project_11\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/nisha/project_11/project_11.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:15 . Memory (MB): peak = 1244.727 ; gain = 567.199
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jul  9 22:49:36 2024...
