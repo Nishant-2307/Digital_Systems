@@ -1,4 +1,4 @@
-#Digital_Systems_Work
+Digital_Systems_Work
 
   In this repo we have mentioned all our work done in our DIGITAL SYSTEMS course.
   It inlcudes major assignments and projects as follows:
