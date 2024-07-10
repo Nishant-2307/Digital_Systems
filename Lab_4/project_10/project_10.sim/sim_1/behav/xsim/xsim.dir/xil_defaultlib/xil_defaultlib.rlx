@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/nisha/project_10/project_10.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/nisha/project_10/project_10.srcs/sim_1/new/asynch_tb.v,1706587414,verilog,,,,asynch_up_tb,,,,,,,,
+C:/Users/nisha/project_10/project_10.srcs/sources_1/new/asynch.v,1706586991,verilog,,C:/Users/nisha/project_10/project_10.srcs/sources_1/new/toggle.v,,asynch,,,,,,,,
+C:/Users/nisha/project_10/project_10.srcs/sources_1/new/toggle.v,1706587352,verilog,,C:/Users/nisha/project_10/project_10.srcs/sim_1/new/asynch_tb.v,,toggle,,,,,,,,
